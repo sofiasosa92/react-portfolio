@@ -54,6 +54,6 @@ Open the browser and go to http://localhost:3001/ to see the application running
 
 [![React]
 
-### Questions?:
+### Questions?
 If you have any questions contact me on [GitHub](https://github.com/sofiasosa92) or contact 
 Sofia  at sofiasosaperez@outlook.com  
