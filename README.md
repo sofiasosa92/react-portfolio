@@ -21,7 +21,7 @@ For challenge 20
 
 
 ### Screenshot:
-#### Homepage of the blog
+
 <img width="600" height="400" > 
 
 ### Demo:
