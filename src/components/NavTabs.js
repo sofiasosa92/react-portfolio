@@ -30,12 +30,12 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li type="button" class="btn btn-no-outline btn-hover-color  btn-md">
         <a
-          href="#blog"
-          onClick={() => handlePageChange('Blog')}
-          className={currentPage === 'Blog' ? "btn btn-no-outline btn-md btn-hover-color" : 'nav-link'}
-          style={{ borderRadius: '90px', backgroundColor: currentPage === 'Blog' ? '#3e3e3e' : 'transparent', color: 'white', padding: '5px 20px' }}
+          href="#projects"
+          onClick={() => handlePageChange('Projects')}
+          className={currentPage === 'Projects' ? "btn btn-no-outline btn-md btn-hover-color" : 'nav-link'}
+          style={{ borderRadius: '90px', backgroundColor: currentPage === 'Projects' ? '#3e3e3e' : 'transparent', color: 'white', padding: '5px 20px' }}
         >
-          Blog
+          Projects
         </a>
       </li>
       <li type="button" class="btn btn-no-outline btn-hover-color  btn-md">

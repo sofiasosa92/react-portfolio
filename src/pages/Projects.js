@@ -9,7 +9,7 @@ import accord from '../assets/photos/accord.png';
 import one from '../assets/photos/one.png';
 
 
-export default function Blog() {
+export default function Projects() {
   return (
     <ul>
       <h1 id="projects">Projects</h1>
