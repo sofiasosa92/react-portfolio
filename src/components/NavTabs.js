@@ -4,7 +4,7 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul style={{ backgroundColor: '#BF9270', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }} className="navbar navbar-expand-lg navbar-dark">
   <li class="container">
-    <a class="navbar-brand" href="/">
+    <a class="navbar-brand">
       <h1>Sofia Sosa </h1>
       <header><h4>Portfolio</h4></header>
     </a>
