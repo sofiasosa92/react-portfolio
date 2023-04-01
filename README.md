@@ -28,6 +28,8 @@ For challenge 20
 
 ### Link:
 
+https://sofiasosa92.github.io/react-portfolio/
+
 ### Usage:
 
 
