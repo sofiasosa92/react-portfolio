@@ -2,12 +2,12 @@ import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul style={{ backgroundColor: '#BF9270' }} className="navbar navbar-expand-lg navbar-dark">
-      <li class="container">
-        <a class="navbar-brand" href="/">
-          <h1>Sofia Sosa </h1>
-          <header><h4>Full Stack Web Developer</h4></header>
-        </a>
+    <ul style={{ backgroundColor: '#BF9270', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }} className="navbar navbar-expand-lg navbar-dark">
+  <li class="container">
+    <a class="navbar-brand" href="/">
+      <h1>Sofia Sosa </h1>
+      <header><h4>Portfolio</h4></header>
+    </a>
         <a
           href="#home"
           onClick={() => handlePageChange('Home')}

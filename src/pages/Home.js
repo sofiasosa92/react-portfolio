@@ -7,12 +7,12 @@ export default function Home() {
         <div className="row">
           <div className="col-lg-6 pr-0 mr-0 pl-lg-0 pr-lg-5 mr-lg-0 mt-3 mt-lg-0 align-items-center justify-content-center align-items-lg-left justify-content-lg-left text-center text-lg-left d-flex order-1 order-lg-0 ">
             <div className="infohero">
-              <p className="infohero__p" style={{ fontSize: '35px' }}>Hello, I'm</p>
+              <p className="infohero__p" style={{ fontSize: '35px', fontStyle: 'italic' }}>Hello, I'm</p>
               <h1 className="infohero__title" style={{ fontSize: '50px' }}>Sofia Sosa</h1>
+              <p className="infohero__p" style={{ fontSize: '25px' }}>Full Stack Web Developer</p>
             </div>
           </div>
-
-          <div className="col-lg-6 text-center order-0 order-lg-1 mb-5 mb-lg-0">
+          <div className="col-lg-6 text-center order-0 order-lg-1 mb-5 mb-lg-0" style={{marginTop: '40px'}}>
             <img
               className="rounded-circle img-fluid"
               src={ profilePic }
@@ -22,6 +22,7 @@ export default function Home() {
           </div>
         </div>
       </div>
+
 
       <footer className="footer bg-secondary text-white text-center py-3" style={{ position: 'fixed', bottom: 0, width: '100%' }}>
   <div className="container">
