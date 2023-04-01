@@ -1,5 +1,5 @@
 import React from 'react';
-
+import profilePic from '../assets/photos/sosa.jpg';  
 export default function Home() {
   return (
     <div style={{ backgroundColor: 'white', minHeight: '100vh', position: 'relative' }}>
@@ -15,7 +15,7 @@ export default function Home() {
           <div className="col-lg-6 text-center order-0 order-lg-1 mb-5 mb-lg-0">
             <img
               className="rounded-circle img-fluid"
-              src="./photos/sosa.jpg"
+              src={ profilePic }
               style={{ width: '400px', height: '400px', float: 'right', border: '3px solid black', objectFit: 'cover' }}
               alt="sosa.jpg"
             />
