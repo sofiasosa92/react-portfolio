@@ -31,10 +31,6 @@ For challenge 20
 ### Usage:
 
 
-Clone this repository
-
- ```git clone https://github.com/sofiasosa92/mvc-tech-blog.git```
-
 Install dependencies
 
 ```npm install```
