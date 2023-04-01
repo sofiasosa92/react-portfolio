@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.f5e36f13.js",
+    "static/media/team.png": "/static/media/team.c968cec531300acc5f43.png",
+    "static/media/one.png": "/static/media/one.1d66be40ffe8dbcb663b.png",
+    "static/media/scheduler.png": "/static/media/scheduler.7e24187c870ddb6a638a.png",
+    "static/media/sosa.jpg": "/static/media/sosa.82fa766a470f0fabe186.jpg",
+    "static/media/password.png": "/static/media/password.29dcfc7c56bb5cce5388.png",
+    "static/media/timed.png": "/static/media/timed.27d4be4cf1d7fe3e3f9b.png",
+    "static/media/accord.png": "/static/media/accord.c547be06ba9e5d842d55.png",
+    "static/media/note.png": "/static/media/note.36dbf62971776ce00f7a.png",
+    "index.html": "/index.html",
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.f5e36f13.js.map": "/static/js/main.f5e36f13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.f5e36f13.js"
+  ]
+}
