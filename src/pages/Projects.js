@@ -248,7 +248,7 @@ export default function Projects() {
       />
       </a>
       <div className="card-body text-center">
-                <h5 className="card-title">Robotic ReAIssance</h5>
+                <h5 className="card-title">Robotic RenAIssance</h5>
       </div>
   </div>
 </div>
